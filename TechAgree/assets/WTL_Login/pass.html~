@@ -1,0 +1,24 @@
+
+<html>
+<body>
+<head><title> Login
+ </title><link rel="stylesheet" href="/home/tecomp/login/pass.css">
+<script type="text/javascript" src="/home/tecomp/login/login.js"></script>
+</head>
+
+<div class="pass-page">  
+  <div class="form">
+
+
+    <form class="login-form"><h2> Reset Your Password </h2>
+      <input type="text" placeholder="Email Address"/>
+      <button>Submit</button> 
+   <!--   <p class="message">An OTP has been sent to your email</p>
+      <input type="text" placeholder="Enter OTP"/>     -->
+     
+
+    </form>
+  </div>
+</div>
+</body>
+</html>
